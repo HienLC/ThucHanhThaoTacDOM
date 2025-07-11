@@ -1,0 +1,19 @@
+html{
+    font-family: "Poppins", sans-serif;
+    background-color: white;
+}
+
+body{
+    margin: 0;
+}
+
+.title-container{
+    text-align: center;
+}
+
+.event-container{
+    border: solid black;
+    border-radius: 5px;
+    margin: 25px 25px;
+    padding: 25px 25px;
+}
